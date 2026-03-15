@@ -5,7 +5,7 @@
 
 
 ### 📥 Cómo descargar:
-Para obtener la versión más reciente, ve a la sección de **[Releases](https://github.com/tu-usuario/MATI-Releases/releases/latest)** a la derecha de esta página y descarga el archivo correspondiente a tu sistema operativo:
+Para obtener la versión más reciente, ve a la sección de **[Releases](https://github.com/lexrammart/MATI-Releases/releases/latest)** a la derecha de esta página y descarga el archivo correspondiente a tu sistema operativo:
 - `.exe` para Windows.
 - `.zip` para macOS.
 
