@@ -1,4 +1,10 @@
-# MATI Releases 🏎️
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tira-uamotors-blanco.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tira-uamotors-negro.png">
+  <img alt="UAMOTORS Logo" src="assets/tira-uamotors-negro.png" width="250" align="left">
+</picture>
+
+## MATI Releases 🏎️
 
 Este es el repositorio de distribución oficial de **MATI (Measurement And Telemetry Insights)**, la aplicación para lectura de telemetría de [**UAMOTORS**](https://uamotors.github.io/)
 
