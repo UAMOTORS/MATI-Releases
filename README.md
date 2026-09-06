@@ -19,7 +19,8 @@ Para obtener la versión más reciente, ve a la sección de **[Releases](https:/
 
 > _Nota: El código fuente de MATI es privado y se gestiona internamente por el Departamento de Electrónica de UAMOTORS._
 >
-> Desarrollado por: <br>
->
-> - Andrés M. ([andrm23](https://github.com/andrm23))
-> - Alejandro R. ([lexrammart](https://github.com/lexrammart))
+
+ Desarrollado por: <br>
+
+ - Andrés M. ([andrm23](https://github.com/andrm23))
+ - Alejandro R. ([lexrammart](https://github.com/lexrammart))
