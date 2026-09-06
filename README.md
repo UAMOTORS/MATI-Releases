@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tira-uamotors-blanco.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tira-uamotors-negro.png">
-  <img alt="UAMOTORS Logo" src="assets/tira-uamotors-negro.png" width="250" align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tira-uamotors-blanco.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tira-uamotors-negro.svg">
+  <img alt="UAMOTORS Logo" src="assets/tira-uamotors-negro.svg" width="250" align="left">
 </picture>
 
 ## MATI Releases 🏎️
