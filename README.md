@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/tira-uamotors-blanco.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/tira-uamotors-negro.svg">
-    <img alt="UAMOTORS Logo" src="assets/tira-uamotors-negro.svg" width="200" align="absmiddle">
+    <img alt="UAMOTORS Logo" src="assets/tira-uamotors-negro.svg" width="250" align="absmiddle">
   </picture>
   &nbsp;MATI Releases 🏎️
 </h1>
